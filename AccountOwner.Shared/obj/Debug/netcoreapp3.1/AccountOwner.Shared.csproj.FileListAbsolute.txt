@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\AccountOwner.App\AccountOwner.Shared\bin\Debug\netcoreapp3.1\AccountOwner.Shared.deps.json
+C:\Users\Admin\source\repos\AccountOwner.App\AccountOwner.Shared\bin\Debug\netcoreapp3.1\AccountOwner.Shared.dll
+C:\Users\Admin\source\repos\AccountOwner.App\AccountOwner.Shared\bin\Debug\netcoreapp3.1\AccountOwner.Shared.pdb
+C:\Users\Admin\source\repos\AccountOwner.App\AccountOwner.Shared\obj\Debug\netcoreapp3.1\AccountOwner.Shared.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\AccountOwner.App\AccountOwner.Shared\obj\Debug\netcoreapp3.1\AccountOwner.Shared.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\AccountOwner.App\AccountOwner.Shared\obj\Debug\netcoreapp3.1\AccountOwner.Shared.AssemblyInfo.cs
+C:\Users\Admin\source\repos\AccountOwner.App\AccountOwner.Shared\obj\Debug\netcoreapp3.1\AccountOwner.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\AccountOwner.App\AccountOwner.Shared\obj\Debug\netcoreapp3.1\AccountOwner.Shared.dll
+C:\Users\Admin\source\repos\AccountOwner.App\AccountOwner.Shared\obj\Debug\netcoreapp3.1\AccountOwner.Shared.pdb
+C:\Users\Admin\source\repos\AccountOwner.App\AccountOwner.Shared\bin\Debug\netcoreapp3.1\AccountOwner.Domain.dll
+C:\Users\Admin\source\repos\AccountOwner.App\AccountOwner.Shared\bin\Debug\netcoreapp3.1\AccountOwner.Domain.pdb
+C:\Users\Admin\source\repos\AccountOwner.App\AccountOwner.Shared\obj\Debug\netcoreapp3.1\AccountOwner.Shared.csproj.CopyComplete

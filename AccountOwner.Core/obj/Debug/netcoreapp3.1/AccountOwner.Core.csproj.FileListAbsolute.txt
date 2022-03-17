@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\AccountOwner.App\AccountOwner.Core\bin\Debug\netcoreapp3.1\AccountOwner.Core.deps.json
+C:\Users\Admin\source\repos\AccountOwner.App\AccountOwner.Core\bin\Debug\netcoreapp3.1\AccountOwner.Core.dll
+C:\Users\Admin\source\repos\AccountOwner.App\AccountOwner.Core\bin\Debug\netcoreapp3.1\AccountOwner.Core.pdb
+C:\Users\Admin\source\repos\AccountOwner.App\AccountOwner.Core\obj\Debug\netcoreapp3.1\AccountOwner.Core.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\AccountOwner.App\AccountOwner.Core\obj\Debug\netcoreapp3.1\AccountOwner.Core.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\AccountOwner.App\AccountOwner.Core\obj\Debug\netcoreapp3.1\AccountOwner.Core.AssemblyInfo.cs
+C:\Users\Admin\source\repos\AccountOwner.App\AccountOwner.Core\obj\Debug\netcoreapp3.1\AccountOwner.Core.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\AccountOwner.App\AccountOwner.Core\obj\Debug\netcoreapp3.1\AccountOwner.Core.dll
+C:\Users\Admin\source\repos\AccountOwner.App\AccountOwner.Core\obj\Debug\netcoreapp3.1\AccountOwner.Core.pdb
+C:\Users\Admin\source\repos\AccountOwner.App\AccountOwner.Core\bin\Debug\netcoreapp3.1\AccountOwner.Domain.dll
+C:\Users\Admin\source\repos\AccountOwner.App\AccountOwner.Core\bin\Debug\netcoreapp3.1\AccountOwner.Domain.pdb
+C:\Users\Admin\source\repos\AccountOwner.App\AccountOwner.Core\obj\Debug\netcoreapp3.1\AccountOwner.Core.csproj.CopyComplete

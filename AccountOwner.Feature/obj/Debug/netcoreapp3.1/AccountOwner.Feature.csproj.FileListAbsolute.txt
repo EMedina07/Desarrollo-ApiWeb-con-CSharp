@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\AccountOwner.App\AccountOwner.Feature\bin\Debug\netcoreapp3.1\AccountOwner.Feature.deps.json
+C:\Users\Admin\source\repos\AccountOwner.App\AccountOwner.Feature\bin\Debug\netcoreapp3.1\AccountOwner.Feature.dll
+C:\Users\Admin\source\repos\AccountOwner.App\AccountOwner.Feature\bin\Debug\netcoreapp3.1\AccountOwner.Feature.pdb
+C:\Users\Admin\source\repos\AccountOwner.App\AccountOwner.Feature\obj\Debug\netcoreapp3.1\AccountOwner.Feature.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\AccountOwner.App\AccountOwner.Feature\obj\Debug\netcoreapp3.1\AccountOwner.Feature.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\AccountOwner.App\AccountOwner.Feature\obj\Debug\netcoreapp3.1\AccountOwner.Feature.AssemblyInfo.cs
+C:\Users\Admin\source\repos\AccountOwner.App\AccountOwner.Feature\obj\Debug\netcoreapp3.1\AccountOwner.Feature.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\AccountOwner.App\AccountOwner.Feature\obj\Debug\netcoreapp3.1\AccountOwner.Feature.dll
+C:\Users\Admin\source\repos\AccountOwner.App\AccountOwner.Feature\obj\Debug\netcoreapp3.1\AccountOwner.Feature.pdb
+C:\Users\Admin\source\repos\AccountOwner.App\AccountOwner.Feature\bin\Debug\netcoreapp3.1\AccountOwner.Core.dll
+C:\Users\Admin\source\repos\AccountOwner.App\AccountOwner.Feature\bin\Debug\netcoreapp3.1\AccountOwner.Domain.dll
+C:\Users\Admin\source\repos\AccountOwner.App\AccountOwner.Feature\bin\Debug\netcoreapp3.1\AccountOwner.Shared.dll
+C:\Users\Admin\source\repos\AccountOwner.App\AccountOwner.Feature\bin\Debug\netcoreapp3.1\AccountOwner.Core.pdb
+C:\Users\Admin\source\repos\AccountOwner.App\AccountOwner.Feature\bin\Debug\netcoreapp3.1\AccountOwner.Domain.pdb
+C:\Users\Admin\source\repos\AccountOwner.App\AccountOwner.Feature\bin\Debug\netcoreapp3.1\AccountOwner.Shared.pdb
+C:\Users\Admin\source\repos\AccountOwner.App\AccountOwner.Feature\obj\Debug\netcoreapp3.1\AccountOwner.Feature.csproj.CopyComplete
